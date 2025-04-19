@@ -13,4 +13,5 @@ Comments: Added comments to explain the parts of the script
 
 # 3
 Can use a config file for the variables
+
 Success logging could be implemented for successfull creations
